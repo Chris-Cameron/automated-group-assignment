@@ -8,7 +8,7 @@ This program uses ranked preferences to automatically assign people into groups.
 [Template](https://docs.google.com/forms/d/1jk0dyiQ3vHuZ6gXAn9EbmyKYn98Bi8_CC1COqMf62FM/copy)
 
 #### Step 2: Export the survey data into Google Sheets
-![](images/export to sheets.png)
+![](images/export%20to%20sheets.png)
 #### Step 3: Insert a row on top and add in the amount of slots available in each category
 ![](images/sizes.png)
 #### Step 4: Download the google sheets file as an .xlsx file
