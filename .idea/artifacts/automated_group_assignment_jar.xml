@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="automated-group-assignment:jar">
+    <output-path>$PROJECT_DIR$</output-path>
+    <root id="archive" name="automated-group-assignment.jar">
+      <element id="module-output" name="automated-group-assignment" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/commons-collections4-4.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/poi-3.17.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/poi-ooxml-3.17.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/poi-ooxml-schemas-3.17.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/xmlbeans-2.6.0.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
